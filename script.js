@@ -1,4 +1,4 @@
-let userThreshold = 0.52; // デフォルトのしきい値
+let userThreshold = 0.45; // デフォルトのしきい値
 
 // ボタンを押すと閾値を切り替える
 function toggleThreshold() {
